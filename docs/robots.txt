@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nodeclubs.github.io/nodeclub/sitemap.xml
+Sitemap: https://tizituijian.github.io/nodeclub/sitemap.xml
