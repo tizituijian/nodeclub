@@ -119,7 +119,7 @@
 
 **[优信云官网 ](https://affgo.cc/uxin)**
 
-[![](hdocs/assets/uxin.png) ](https://affgo.cc/uxin)
+[![](docs/assets/uxin.png) ](https://affgo.cc/uxin)
 
 优信云是新兴Shadowsocks/Trojan协议机场服务商，除了公网和直连节点还提供IPLC高速专线，支持24小时不满意退款。
 
