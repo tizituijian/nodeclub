@@ -34,9 +34,9 @@
 
 [![](docs/assets/yafacloud.png) ](https://affgo.cc/yafa)
 
-扬帆云由海外团队运营，主打Shadowsocks协议，提供多线入口和IEPL专线，100多条节点线路覆盖美国、新加坡、台湾、香港、日本及全球小众地区。
+扬帆云由海外团队运营，主打Shadowsocks+V2Ray协议，提供多线入口和IEPL专线，100多条节点线路覆盖美国、新加坡、台湾、香港、日本及全球小众地区。
 
-* **核心优势**: 解锁Netflix、Disney+、YouTube Premium，4K秒开；月付15元起，年付七折优惠；支持24H不满意退款；支持Clash、Shadowrocket等客户端。
+* **核心优势**: 解锁Netflix、Disney+、YouTube Premium，4K秒开；月付15元起，年付七折优惠；支持永久有效按流量计费套餐；支持24H不满意退款；支持Clash、Shadowrocket等主流翻墙插件客户端。
 * **套餐价格**:
 
 |套餐|价格|每月流量|特点|
